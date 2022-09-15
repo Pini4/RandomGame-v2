@@ -26,7 +26,7 @@
                     Console.WriteLine($"К сожалению,вам не удалось отгадать число.Это было число {a}!");
                     break;
                 }
-                Console.WriteLine($"Вы не угадали число. У вас есть еще попытка {count}");
+                Console.WriteLine($"Вы не угадали число. У вас есть еще попытка :D");
                 b = Convert.ToInt32(Console.ReadLine());
 
 
