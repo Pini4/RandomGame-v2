@@ -15,7 +15,7 @@
         {
             if (a == b)
             {
-                Console.WriteLine($"Поздровляю вы угадали число с {count}попытки!");
+                Console.WriteLine($"Поздравляю вы угадали число с {count} попытки!");
                 break;
             }
             else
